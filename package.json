@@ -1,0 +1,16 @@
+{
+  "name": "youtube-playlist-items-nodejs",
+  "version": "0.1.0",
+  "description": "Tool to get all items of youtube playlists",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phollome/youtube-playlist-items-nodejs"
+  },
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "yargs": "^16.2.0"
+  }
+}
